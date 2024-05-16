@@ -2,5 +2,11 @@ public class Demo{
 public void helloworld(){
 system.debug('git hub');
 }
+public void dosum(){
+integer a=10;
+integer b=10
+integer res= a+b;
+system.debug(res);
+}
 
 }
