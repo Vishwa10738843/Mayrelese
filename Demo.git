@@ -2,6 +2,7 @@ public class Demo{
 public void helloworld(){
 system.debug('git hub');
 system.debug('welcome github');
+system.debug('hello git');
 }
 public void dosum(){
 integer a=10;
